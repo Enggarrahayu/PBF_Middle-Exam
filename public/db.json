@@ -1,0 +1,89 @@
+{
+    "products": [
+    {
+        "id": 1,
+        "nama_produk": "Miyako Rice Cooker PSG 607",
+        "harga": 137600,
+        "gambar": "./images/miyako607.png",
+        "stok": 3
+    },
+    {
+        "id": 2,
+        "nama_produk": "HAN RIVER HREPC01RD",
+        "harga": 399000,
+        "gambar": "./images/hanriver.png",
+        "stok": 5
+    },
+    {
+        "id": 3,
+        "nama_produk": "Cosmos CRJ-8229",
+        "harga": 281000,
+        "gambar": "./images/cosmos.png",
+        "stok": 5
+    },
+    {
+        "id": 4,
+        "nama_produk": "Rice Cooker Sharp KS-N18MG",
+        "harga": 206975,
+        "gambar": "./images/sharp.png",
+        "stok": 2
+    },
+    {
+        "id": 5,
+        "nama_produk": "Miyako Rice Cooker PSG 607",
+        "harga": 137600,
+        "gambar": "./images/miyako607.png",
+        "stok": 3
+    },
+    {
+        "id": 6,
+        "nama_produk": "HAN RIVER HREPC01RD",
+        "harga": 399000,
+        "gambar": "./images/hanriver.png",
+        "stok": 5
+    },
+    {
+        "id": 7,
+        "nama_produk": "Cosmos CRJ-8229",
+        "harga": 281000,
+        "gambar": "./images/cosmos.png",
+        "stok": 5
+    },
+    {
+        "id": 8,
+        "nama_produk": "Rice Cooker Sharp KS-N18MG",
+        "harga": 206975,
+        "gambar": "./images/sharp.png",
+        "stok": 2
+    },
+    {
+        "id": 9,
+        "nama_produk": "Miyako Rice Cooker PSG 607",
+        "harga": 137600,
+        "gambar": "./images/miyako607.png",
+        "stok": 3
+    },
+    {
+        "id": 10,
+        "nama_produk": "HAN RIVER HREPC01RD",
+        "harga": 399000,
+        "gambar": "./images/hanriver.png",
+        "stok": 5
+    },
+    {
+        "id": 11,
+        "nama_produk": "Cosmos CRJ-8229",
+        "harga": 281000,
+        "gambar": "./images/cosmos.png",
+        "stok": 5
+    },
+    {
+        "id": 12,
+        "nama_produk": "Rice Cooker Sharp KS-N18MG",
+        "harga": 206975,
+        "gambar": "./images/sharp.png",
+        "stok": 2
+    }
+]
+}
+

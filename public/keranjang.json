@@ -1,0 +1,20 @@
+{
+  "keranjang": [
+    {
+      "id": 2,
+      "nama_produk": "HAN RIVER HREPC01RD",
+      "harga": 399000,
+      "gambar": "./images/hanriver.png",
+      "total_price": 1197000,
+      "qty": 3
+    },
+    {
+      "id": 4,
+      "nama_produk": "Rice Cooker Sharp KS-N18MG",
+      "harga": 206975,
+      "gambar": "./images/sharp.png",
+      "total_price": 413950,
+      "qty": 2
+    }
+  ]
+}
